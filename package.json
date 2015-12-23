@@ -5,7 +5,7 @@
     "name": "egg",
     "email": "i@egg.pe.kr"
   },
-  "description": "scrap words to search with specified keywords on Google for Node.js.",
+  "description": "Scrap related searches on Google for Node.js.",
   "scripts": {},
   "repository": {
     "type": "git",
